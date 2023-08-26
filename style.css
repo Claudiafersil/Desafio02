@@ -1,1 +1,30 @@
- #sub{}
+#fundo{
+    background: url("/img/porco.jpg");
+    margin: 0%;
+    height: 500px;
+    text-align: center;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+h1{
+    font-size: 55px;
+    color: rgb(31, 218, 106);
+    }
+    h2{
+        color: white;
+    }
+    h3{
+        color: white;
+    }h4{
+        text-align: center;
+        font-size: 30px;
+    }
+    #seleção{
+    padding: 50px;
+    background: rgb(211, 218, 226);
+    }
+    p{
+        text-align: justify;
+        
+    }
